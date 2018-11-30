@@ -1,0 +1,206 @@
+[
+  {
+    "name": "Arkham Horror: The Card Game",
+    "ratings": [
+      { "number": 9, "colour": "green" }
+    ]
+  },
+  {
+    "name": "Arkham Horror: The Card Game – The Labyrinths of Lunacy: Scenario Pack",
+    "ratings": [
+      { "number": 6, "colour": "green" }
+    ]
+  },
+  {
+    "name": "Bohnanza",
+    "ratings": [
+      { "number": 7, "colour": "green" },
+      { "number": 9, "colour": "blue" },
+      { "number": 9, "colour": "yellow" }
+    ]
+  },
+  {
+    "name": "Catan",
+    "ratings": [
+      { "number": 6, "colour": "green" },
+      { "number": 7, "colour": "blue" },
+      { "number": 8, "colour": "yellow" },
+      { "number": 8, "colour": "pink" }
+    ]
+  },
+  {
+    "name": "Citadels",
+    "ratings": [
+      { "number": 7, "colour": "green" },
+      { "number": 8, "colour": "yellow" },
+      { "number": 7, "colour": "pink" }
+    ]
+  },
+  {
+    "name": "Dead of Winter",
+    "ratings": [
+      { "number": 9, "colour": "green" },
+      { "number": 9, "colour": "pink" },
+      { "number": 9, "colour": "blue" },
+      { "number": 9, "colour": "yellow" }
+    ]
+  },
+  {
+    "name": "Dominion",
+    "ratings": [
+      { "number": 6, "colour": "green" },
+      { "number": 10, "colour": "pink" },
+      { "number": 8, "colour": "yellow" }
+    ]
+  },
+  {
+    "name": "Dominion: Intrigue (Second Edition)",
+    "ratings": [
+      { "number": 6, "colour": "green" },
+      { "number": 10, "colour": "pink" },
+      { "number": 8, "colour": "yellow" }
+    ]
+  },
+  {
+    "name": "Everdell",
+    "ratings": [
+      { "number": 9, "colour": "green" },
+      { "number": 9, "colour": "blue" },
+      { "number": 9, "colour": "pink" },
+      { "number": 7, "colour": "yellow" }
+    ]
+  },
+  {
+    "name": "Hoax (second edition)",
+    "ratings": [
+      { "number": 2, "colour": "green" },
+      { "number": 2, "colour": "pink" }
+    ]
+  },
+  {
+    "name": "King of Tokyo",
+    "ratings": [
+      { "number": 7, "colour": "green" },
+      { "number": 8, "colour": "blue" },
+      { "number": 10, "colour": "yellow" },
+      { "number": 8, "colour": "pink" }
+    ]
+  },
+  {
+    "name": "London (second edition)",
+    "ratings": [
+      { "number": 6, "colour": "green" },
+      { "number": 6, "colour": "pink" },
+      { "number": 3, "colour": "yellow" }
+    ]
+  },
+  {
+    "name": "Mascarade",
+    "ratings": [
+      { "number": 6, "colour": "green" },
+      { "number": 6, "colour": "pink" }
+    ]
+  },
+  {
+    "name": "Mysterium",
+    "ratings": [
+      { "number": 6, "colour": "green" },
+      { "number": 9, "colour": "pink" },
+      { "number": 9, "colour": "yellow" }
+    ]
+  },
+  {
+    "name": "Mysterium: Secrets & Lies",
+    "ratings": [
+      { "number": 6, "colour": "green" },
+      { "number": 9, "colour": "pink" }
+    ]
+  },
+  {
+    "name": "Near and Far",
+    "ratings": [
+      { "number": 7, "colour": "green" },
+      { "number": 5, "colour": "pink" }
+    ]
+  },
+  {
+    "name": "Onitama",
+    "ratings": [
+      { "number": 8, "colour": "green" },
+      { "number": 5, "colour": "yellow" },
+      { "number": 6, "colour": "pink" }
+    ]
+  },
+  {
+    "name": "Orléans",
+    "ratings": [
+      { "number": 8, "colour": "green" }
+    ]
+  },
+  {
+    "name": "Pandemic",
+    "ratings": [
+      { "number": 7, "colour": "green" },
+      { "number": 8, "colour": "blue" },
+      { "number": 8, "colour": "yellow" },
+      { "number": 8, "colour": "pink" }
+    ]
+  },
+  {
+    "name": "Sherlock Holmes Consulting Detective: Carlton House & Queen's Park",
+    "ratings": [
+      { "number": 7, "colour": "green" },
+      { "number": 4, "colour": "pink" }
+    ]
+  },
+  {
+    "name": "Shipwrights of the North Sea (Second Edition)",
+    "ratings": [
+      { "number": 7, "colour": "green" },
+      { "number": 6, "colour": "pink" }
+    ]
+  },
+  {
+    "name": "Small World",
+    "ratings": [
+      { "number": 5, "colour": "green" },
+      { "number": 3, "colour": "pink" }
+    ]
+  },
+  {
+    "name": "Spyfall",
+    "ratings": [
+      { "number": 7, "colour": "green" },
+      { "number": 5, "colour": "yellow" },
+      { "number": 7, "colour": "blue" }
+    ]
+  },
+  {
+    "name": "Sushi Go!",
+    "ratings": [
+      { "number": 8, "colour": "green" },
+      { "number": 10, "colour": "yellow" }
+    ]
+  },
+  {
+    "name": "T.I.M.E Stories",
+    "ratings": [
+      { "number": 8, "colour": "green" },
+      { "number": 10, "colour": "yellow" },
+      { "number": 10, "colour": "pink" }
+    ]
+  },
+  {
+    "name": "T.I.M.E Stories: A Prophecy of Dragons",
+    "ratings": [
+      { "number": 8, "colour": "green" }
+    ]
+  },
+  {
+    "name": "Unlock! Escape Adventures",
+    "ratings": [
+      { "number": 8, "colour": "green" },
+      { "number": 7, "colour": "pink" }
+    ]
+  }
+]
