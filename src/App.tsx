@@ -10,14 +10,7 @@ import nathan from './nathan.jpg';
 import zoe from './zoe.jpg';
 
 import games from './games.json';
-
-var people = [
-  { name: "Elliot", score: 1, colour: "green", photo: elliot },
-  { name: "Lottie", score: 2, colour: "pink", photo: lottie },
-  { name: "Zoë", score: 2, colour: "yellow", photo: zoe },
-  { name: "Nathan", score: 1, colour: "blue", photo: nathan }
-]
-
+import people from './people.json';
 
 const average = (arr: any) => arr.reduce((p: any, c: any) => p + c, 0 ) / arr.length;
 const averageRating = (rs: any) => average(rs.map((r: any) => r.number))

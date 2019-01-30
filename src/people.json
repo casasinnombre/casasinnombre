@@ -1,0 +1,6 @@
+[
+  { "name": "Elliot", "score": 1, "colour": "green",  "photo": "elliot" },
+  { "name": "Lottie", "score": 3, "colour": "pink",   "photo": "lottie" },
+  { "name": "Zoë",    "score": 2, "colour": "yellow", "photo": "zoe" },
+  { "name": "Nathan", "score": 1, "colour": "blue",   "photo": "nathan" }
+]
